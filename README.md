@@ -10,9 +10,13 @@ In the case of providing the login process in the mobile-based Psychology Predic
 ### What Did We Use ?
 
 • Database normalization
+
 • Logistic Regression Analysis
+
 • Naive Bayes Algorithm
+
 • Evaluation Metrics with Logistic Regression and Naive Bayes(Accuracy,recall,f1-score,sensitivity,specifity)
+
 • 96 percent success rate
 
 ##EXPERIMENTAL RESULT AND DISCUSSION
